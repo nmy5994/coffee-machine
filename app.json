@@ -1,0 +1,13 @@
+{
+  "name": "Coffee Machine",
+  "description": "This app does one little thing, and does it well.",
+  "keywords": [
+    "simple",
+    "Python",
+    "Coffee"
+    "Machine"
+  ],
+  "website": "https://github.com/nmy5994/coffee-machine/",
+  "repository": "https://github.com/nmy5994/coffee-machine",  
+  "buildpacks": "heroku/python",  
+}
